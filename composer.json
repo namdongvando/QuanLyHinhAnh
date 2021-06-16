@@ -1,5 +1,5 @@
 {
-    "name": "namdongvando/QuanLyHinhAnh",
+    "name": "namdongvando/quan-ly-hinh-anh",
     "type": "Module",
     "description": "Quan ly hinh anh voi ckfider.",
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PFBC\\": "src/"
+            "Module\\": "Module/"
         }
     }
 }
