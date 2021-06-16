@@ -1,0 +1,26 @@
+{
+    "name": "namdongvando/QuanLyHinhAnh",
+    "type": "Module",
+    "description": "Quan ly hinh anh voi ckfider.",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "html",
+        "Module"
+    ],
+    "homepage": "https://nguyenvando.net/quanlyhinhanh",
+    "authors": [
+        {
+            "name": "namdong",
+            "email": "namdong92@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PFBC\\": "src/"
+        }
+    }
+}
